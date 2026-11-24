@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+manzanas,manzana1.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+manzanas,manzana2.jpg,OK,380,260,224,224,0.0,1.0,APROBADA
+manzanas,manzana3.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+manzanas,manzana4.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+manzanas,manzana5.jpg,OK,547,365,224,224,0.0,1.0,APROBADA
+peras,pera1.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+peras,pera2.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+peras,pera3.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+peras,pera4.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+peras,pera5.jpg,OK,449,445,224,224,0.0,1.0,APROBADA
